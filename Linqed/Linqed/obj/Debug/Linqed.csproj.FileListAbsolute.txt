@@ -1,0 +1,6 @@
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\Linqed\Linqed\bin\Debug\Linqed.exe.config
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\Linqed\Linqed\bin\Debug\Linqed.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\Linqed\Linqed\bin\Debug\Linqed.pdb
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\Linqed\Linqed\obj\Debug\Linqed.csprojResolveAssemblyReference.cache
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\Linqed\Linqed\obj\Debug\Linqed.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\Linqed\Linqed\obj\Debug\Linqed.pdb
